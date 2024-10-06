@@ -1,0 +1,16 @@
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\bin\Debug\net8.0-windows\LTUinl3.exe
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\bin\Debug\net8.0-windows\LTUinl3.deps.json
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\bin\Debug\net8.0-windows\LTUinl3.runtimeconfig.json
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\bin\Debug\net8.0-windows\LTUinl3.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\bin\Debug\net8.0-windows\LTUinl3.pdb
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.Form1.resources
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\refint\LTUinl3.dll
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.pdb
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\LTUinl3.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Skrivbord\LTU\LTUinl3\obj\Debug\net8.0-windows\ref\LTUinl3.dll
